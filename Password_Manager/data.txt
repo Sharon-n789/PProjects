@@ -1,0 +1,3 @@
+Amazon | sharon@gmail.com | 12345
+Ebay | sharon@gmail.com | qwerty
+hello | sharon@gmail.com | world
