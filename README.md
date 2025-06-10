@@ -13,4 +13,7 @@ List of Works :-
 3. Snake Game
 4. Mile_to_Km_Converter
 5. Pomodoro Timer
+6. Password_generator
+7. Pasword_Manager
+
 
